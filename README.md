@@ -1,3 +1,3 @@
-# pose_estimation_opencv
-Human pose estimation project in Opencv 
+# yolo_custom_object_detection
+Implementation of YOLOv4 for custom object detection
 
